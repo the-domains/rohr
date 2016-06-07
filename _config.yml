@@ -1,7 +1,7 @@
 name: rohr
 favicon: null
-layout_spectrum: 0.41606337018311024
-typography_spectrum: 0.8402449009008706
+layout_spectrum: 0.41274
+typography_spectrum: 0.75684
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6502934182062745
-  lightness: 0.8483201037161052
-  saturation: 0.2510741176083684
-  rhythmicContrast: 0.9915136662311852
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
